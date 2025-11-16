@@ -1,4 +1,4 @@
-# handsonlab-github-practiceProject
+# handsonlab-LogisticsShippingRates
 
 ## Practice Project - Shipping Calculator Application
 ### Overview and Scenario
